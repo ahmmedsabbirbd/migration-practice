@@ -14,9 +14,7 @@ And it's practice projects of PHP and Larvel of OSTAD.
 - [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Document the steps you took to install Laravel](#document-the-steps-you-took-to-install-laravel)
-- [Laravel Folder Structure](#laravel-folder-structure)
-- [Simple Route](#simple-route)
+- [Migration](#Migration)
 - [Usage](#usage)
 - [API Documentation](#api-documentation)
 - [Contributing](#contributing)
@@ -77,7 +75,7 @@ This will start the server and the application will be available at http://local
 
 Note: If you encounter any issues while installing or running the project locally, please refer to the project's documentation or reach out to the project maintainers for assistance.
 
-## Document the steps you took to install Laravel
+## Migration
 
 1. ## My Database Diagram and I write my migration
      ![Database Diagram](https://raw.githubusercontent.com/ahmmedsabbirbd/migration-practice/master/public/assets/documentation/migration-practice-database-diagram.jpg)
