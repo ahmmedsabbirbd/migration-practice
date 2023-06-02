@@ -1,11 +1,11 @@
 # Migration Practice | Migration | Create Database Digram
 <!-- [Live Link](https://bmi-calculator-ostad.netlify.app) -->
 
-The book is a simple Laravel project and updated versioin. I include Routing practice, Folder Structure, and Laravel Installation.
+The Migration Practice is a simple Database project. I include about of all Migration.
 
-And it's assignment projects of PHP and Larvel of OSTAD.
+And it's practice projects of PHP and Larvel of OSTAD.
 
-![Laravel Properly Installed](https://raw.githubusercontent.com/ahmmedsabbirbd/book/master/public/assets/documentation/laravel-install.png)
+![Database Diagram](https://raw.githubusercontent.com/ahmmedsabbirbd/migration-practice/master/public/assets/documentation/migration-practice-database-diagram.jpg)
 
 ## Table of Contents
 
@@ -25,39 +25,39 @@ And it's assignment projects of PHP and Larvel of OSTAD.
 
 ## Description
 
-The book is a simple Laravel project and updated versioin. I include Routing practice, Folder Structure, and Laravel Installation.
+The Migration Practice is a simple Database project. I include about of all Migration.
 
 ## Features
 | Key Features                | Description                                                  |
 | ---------------------------| ------------------------------------------------------------ | 
-|  Laravel Installation  | Laravel Properly Installed |
-|  Folder Structure     | Explain Properly of Folder Structure |
-|  Routing     | Baic Routing Explain |
+|  MIgration  | All Practice about migration |
+|  Database Diagram  | Follow Database Diagram and write code |
 
 
 ## Demo
 Project Home Page
 
-[![Demo Video](https://raw.githubusercontent.com/ahmmedsabbirbd/book/master/public/assets/documentation/laravel-install.png)](https://youtu.be/RYAh3rSyWHs)
+[![Demo Video](https://raw.githubusercontent.com/ahmmedsabbirbd/migration-practice/master/public/assets/documentation/migration-practice-database-diagram.jpg)](https://youtu.be/RYAh3rSyWHs)
 
 ## Technologies Used
 
 List the technologies, libraries, frameworks, or languages that you used to build your project. You can also provide links to their official websites or documentation.
 
 - Laravel
+- MSQL
 ## Installation
 
 Clone the repository to your local machine
 
 bash
 
-    git clone https://github.com/ahmmedsabbirbd/book.git
+    git clone https://github.com/ahmmedsabbirbd/migration-practice.git
 
 Open Project folder:
 
 bash
 
-     cd book
+     cd migration-practice
 
 Install the necessary dependencies by running the following command in the project directory:
 
@@ -79,68 +79,61 @@ Note: If you encounter any issues while installing or running the project locall
 
 ## Document the steps you took to install Laravel
 
-1. ## Open Laravel official web site
-     ![Open Laravel official web site](https://raw.githubusercontent.com/ahmmedsabbirbd/book/master/public/assets/documentation/laravel-offical-website.png)
+1. ## My Database Diagram and I write my migration
+     ![Database Diagram](https://raw.githubusercontent.com/ahmmedsabbirbd/migration-practice/master/public/assets/documentation/migration-practice-database-diagram.jpg)
+2. ## migration status
+     ![Database Diagram](https://raw.githubusercontent.com/ahmmedsabbirbd/migration-practice/master/public/assets/documentation/migrate-status.png)
 
-2. ## Click Documentation
-     ![Click Documentation](https://raw.githubusercontent.com/ahmmedsabbirbd/book/master/public/assets/documentation/laravel-offical-website-documetation.png)
-3. ## Copy the code and paste my terminal
+3. ## migration file and code
+     ![migration file and code](https://raw.githubusercontent.com/ahmmedsabbirbd/migration-practice/master/public/assets/documentation/migration-1.png) 
 
-     ![Copy the code and paste my terminal](https://raw.githubusercontent.com/ahmmedsabbirbd/book/master/public/assets/documentation/install-command.png)
-     bash
-     
-          composer global require laravel/installer
+4. ## migration file and code
+     ![migration file and code](https://raw.githubusercontent.com/ahmmedsabbirbd/migration-practice/master/public/assets/documentation/migration-2.png) 
+
+5. ## migration file and code
+     ![migration file and code](https://raw.githubusercontent.com/ahmmedsabbirbd/migration-practice/master/public/assets/documentation/migration-3.png) 
+
+6. ## migration file and code
+     ![migration file and code](https://raw.githubusercontent.com/ahmmedsabbirbd/migration-practice/master/public/assets/documentation/migration-4.png) 
+
+7. ## migration file and code
+     ![migration file and code](https://raw.githubusercontent.com/ahmmedsabbirbd/migration-practice/master/public/assets/documentation/migration-5.png) 
+
+8. ## migration file and code
+     ![migration file and code](https://raw.githubusercontent.com/ahmmedsabbirbd/migration-practice/master/public/assets/documentation/migration-6.png) 
+
+9. ## migration file and code
+     ![migration file and code](https://raw.githubusercontent.com/ahmmedsabbirbd/migration-practice/master/public/assets/documentation/migration-7.png) 
+
+10. ## migration file and code
+     ![migration file and code](https://raw.githubusercontent.com/ahmmedsabbirbd/migration-practice/master/public/assets/documentation/migration-8.png) 
+
+11. ## migration file and code
+     ![migration file and code](https://raw.githubusercontent.com/ahmmedsabbirbd/migration-practice/master/public/assets/documentation/migration-9.png) 
+
+12. ## migration file and code
+     ![migration file and code](https://raw.githubusercontent.com/ahmmedsabbirbd/migration-practice/master/public/assets/documentation/migration-10.png) 
+
+13. ## migration file and code
+     ![migration file and code](https://raw.githubusercontent.com/ahmmedsabbirbd/migration-practice/master/public/assets/documentation/migration-11.png) 
+
+14. ## migration file and code
+     ![migration file and code](https://raw.githubusercontent.com/ahmmedsabbirbd/migration-practice/master/public/assets/documentation/migration-12.png) 
+
+15. ## migration file and code
+     ![migration file and code](https://raw.githubusercontent.com/ahmmedsabbirbd/migration-practice/master/public/assets/documentation/migration-13.png) 
+
+16. ## migration file and code
+     ![migration file and code](https://raw.githubusercontent.com/ahmmedsabbirbd/migration-practice/master/public/assets/documentation/migration-14.png) 
+
+17. ## migration file and code
+     ![migration file and code](https://raw.githubusercontent.com/ahmmedsabbirbd/migration-practice/master/public/assets/documentation/migration-15.png) 
  
-          laravel new book
-4. ## Type my terminal and run  http://127.0.0.1:8000 This port
-     bash
-     
-          php artisan serve
-     
-     ![Copy the code and paste my terminal](https://raw.githubusercontent.com/ahmmedsabbirbd/book/master/public/assets/documentation/laravel-install.png)
- 
 
-## Laravel Folder Structure
-     
-![Laravel Folder Structure](https://raw.githubusercontent.com/ahmmedsabbirbd/book/master/public/assets/documentation/folder-structure.png)
-
-1. ### `app`:
-     This folder contains the core of your Laravel application, including its models, controllers, service providers, and other application-specific code.
-
-2. ### `bootstrap`:
-     This folder contains files that are responsible for bootstrapping your Laravel application, including the app.php file which loads the application's configuration files and service providers.
-3. ### `config`:
-     This folder contains configuration files for your application, including database configuration, app configuration, and other configuration files.
-4. ### `database`:
-     This folder contains database-related files, including migration files, seed files, and the database itself.
-     This folder contains configuration files for your application, including database configuration, app configuration, and other configuration files.
-5. ### `public`:
-     This folder contains the public-facing files for your Laravel application, including the index.php file which serves as the entry point for all incoming requests.
-6. ### `resources`:
-     This folder contains the assets and templates for your application, including views, language files, and asset files such as CSS and JavaScript files.
-7. ### `routes`:
-     This folder contains the routes for your application, including the web.php file which defines the routes for your application's web interface and the api.php file which defines the routes for your application's API.
-8. ### `storage`:
-     This folder contains files that are generated by your Laravel application, including log files, cache files, and session files.
-9. ### `tests`:
-     This folder contains test files for your application, including unit tests and feature tests.
-10. ### `vendor`:
-     This folder contains all of the third-party packages that your Laravel application depends on, including the Laravel framework itself.
-
-
-## Simple Route
-
-1. ### I create simple route and it's named "world".
-
-     ![Simple Route](https://raw.githubusercontent.com/ahmmedsabbirbd/book/master/public/assets/documentation/world.png)
-
-2. ### return "Hello, World".
-
-     ![Simple Route Output](https://raw.githubusercontent.com/ahmmedsabbirbd/book/master/public/assets/documentation/world-output.png)
 ## Usage
 
 ### Getting Started
-To get started with Book, you will need to follow the installation instructions in the previous section.
+To get started with migration-practice, you will need to follow the installation instructions in the previous section.
 
 ## API Documentation
 Did not Provide any API
